@@ -1,0 +1,3 @@
+[data-message-id] > div:nth-child(2) img:not([role=button]):not([role=menu]) {
+    max-width: 100%;
+}
