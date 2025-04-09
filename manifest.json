@@ -1,6 +1,6 @@
 {
     "name": "Gmail image fit",
-    "version": "1.0",
+    "version": "1.1",
     "description": "Resize the images in the mail body to prevent the horizontal scrolling",
     "manifest_version": 3,
     "author": "Flavio Cristoforetti, https://github.com/Omnia89",
